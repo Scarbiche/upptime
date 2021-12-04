@@ -3,21 +3,25 @@ owner: Scarbiche # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Happy Média
+    url: https://happymedia.pub
+  - name: Info Tours
+    url: https://info-tours.fr
+  - name: 37 Degrés
+    url: https://www.37degres-mag.fr
+  - name: Formatic Centre
+    url: https://www.formatic-centre.fr
+  - name: G3 Entreprises
+    url: https://g3entreprises.fr
+  - name: Nina Délices
+    url: https://nina-delices.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.happyweb.pub
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://happyweb.pub/storage/2020/12/HAPPY-WEB-logo-light.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
